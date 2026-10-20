@@ -58,11 +58,11 @@
 ### 📈 Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NabeekhAbid&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true&radius=8" alt="Contribution activity graph"/>
+  <img width="100%" src="https://raw.githubusercontent.com/NabeekhAbid/NabeekhAbid/output/activity.svg" alt="Contribution activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NabeekhAbid&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&hide_border=true" alt="GitHub streak"/>
+  <img width="600" src="https://raw.githubusercontent.com/NabeekhAbid/NabeekhAbid/output/stats.svg" alt="Contribution streaks"/>
 </p>
 
 <p align="center">
