@@ -1,13 +1,15 @@
-<h1 align="center">Hi, I'm Nabeekh 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=170&section=header&text=Nabeekh%20Abid&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20engineer%20%C2%B7%20SaaS%20%26%20product%20builder&descAlignY=60&descSize=16" alt="Header"/>
 
 <p align="center">
-  <b>Full-stack engineer · SaaS & product builder</b><br/>
-  I design and ship products end to end, from the API and data model to the UI and the browser extension.
+  <a href="https://github.com/NabeekhAbid">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=I+build+products+end+to+end+%F0%9F%9A%80;APIs+%E2%80%A2+Extensions+%E2%80%A2+AI+integrations;Currently+debugging+something+%F0%9F%90%9B;It+works+on+my+machine+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing intro"/>
+  </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/Nabeekh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Lahore%2C%20PK-Remote%20(PKT%2C%20UTC%2B5)-333333?style=flat-square" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=NabeekhAbid&label=Profile%20views&color=22D3EE&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -53,6 +55,41 @@
 
 ---
 
+### 📈 Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NabeekhAbid&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true&radius=8" alt="Contribution activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NabeekhAbid&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NabeekhAbid/NabeekhAbid/output/github-snake-dark.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/NabeekhAbid/NabeekhAbid/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+  </picture>
+</p>
+
+---
+
+### 🎲 Random facts about me
+
+- 🎹 Learning piano. Progress is measured in geological time.
+- 🌌 Will happily derail any conversation into block universes and time-travel physics.
+- 📶 Once spent a month fighting Wi-Fi through concrete floors. The concrete is still winning.
+- 📈 Reads about personal finance for fun (yes, really).
+- 🐛 My code doesn't have bugs. It has surprise features.
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
+</p>
+
 ### 🤝 Let's connect
 
 Open to interesting projects and collaborations. The fastest way to reach me is [LinkedIn](https://linkedin.com/in/Nabeekh).
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0F172A&height=110&section=footer" alt="Footer"/>
