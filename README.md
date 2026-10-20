@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=170&section=header&text=Nabeekh%20Abid&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20engineer%20%C2%B7%20SaaS%20%26%20product%20builder&descAlignY=60&descSize=16" alt="Header"/>
+<img width="100%" src="./assets/header.svg" alt="Nabeekh Abid · Full-stack engineer"/>
 
 <p align="center">
   <a href="https://github.com/NabeekhAbid">
@@ -92,4 +92,4 @@
 
 Open to interesting projects and collaborations. The fastest way to reach me is [LinkedIn](https://linkedin.com/in/Nabeekh).
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0F172A&height=110&section=footer" alt="Footer"/>
+<img width="100%" src="./assets/footer.svg" alt=""/>
