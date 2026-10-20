@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+  <defs>
+    <style>
+      .w1 { animation: drift 9s linear infinite; }
+      .w2 { animation: drift 14s linear infinite reverse; }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+    </style>
+  </defs>
+  <path class="w2" d="M0 30 Q 150.0 20 300.0 30 T 600.0 30 T 900.0 30 T 1200.0 30 T 1500.0 30 T 1800.0 30 L 1800.0 90 L 0 90 Z" fill="#22D3EE" opacity=".25"/>
+  <path class="w1" d="M0 44 Q 150.0 32 300.0 44 T 600.0 44 T 900.0 44 T 1200.0 44 T 1500.0 44 T 1800.0 44 L 1800.0 90 L 0 90 Z" fill="#22D3EE" opacity=".55"/>
+</svg>
