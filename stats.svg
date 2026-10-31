@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <style>
+    .pop { opacity: 0; animation: pop .6s ease-out .2s forwards; }
+    @keyframes pop { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <rect width="600" height="200" rx="12" fill="#0D1117"/>
+  <line x1="200.0" y1="30" x2="200.0" y2="170" stroke="#30363D"/><line x1="400.0" y1="30" x2="400.0" y2="170" stroke="#30363D"/>
+  <text class="pop" x="100.0" y="90" text-anchor="middle" fill="#C9D1D9" font-size="30" font-weight="700">2,822</text><text x="100.0" y="150" text-anchor="middle" fill="#C9D1D9" font-size="15" font-weight="600">Total contributions</text><text x="100.0" y="174" text-anchor="middle" fill="#8B949E" font-size="12">Past year</text><circle cx="300.0" cy="78" r="40" fill="none" stroke="#22D3EE" stroke-width="5"/><rect x="286.0" y="22" width="28" height="30" fill="#0D1117"/><path transform="translate(300.0 38)" fill="#F97316" d="M0,-14 C6,-7 10,0 7,7 C5,12 -5,12 -7,7 C-10,0 -5,-4 0,-14 Z"/><path transform="translate(300.0 41)" fill="#FDBA74" d="M0,-6 C3,-2 4,2 3,4 C2,6 -2,6 -3,4 C-4,2 -2,0 0,-6 Z"/><text class="pop" x="300.0" y="90" text-anchor="middle" fill="#22D3EE" font-size="30" font-weight="700">5</text><text x="300.0" y="150" text-anchor="middle" fill="#22D3EE" font-size="15" font-weight="600">Current streak</text><text x="300.0" y="174" text-anchor="middle" fill="#8B949E" font-size="12">Oct 26 – Oct 30</text><text class="pop" x="500.0" y="90" text-anchor="middle" fill="#C9D1D9" font-size="30" font-weight="700">6</text><text x="500.0" y="150" text-anchor="middle" fill="#C9D1D9" font-size="15" font-weight="600">Longest streak</text><text x="500.0" y="174" text-anchor="middle" fill="#8B949E" font-size="12">Jun 8 – Jun 13</text>
+</svg>
